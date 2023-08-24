@@ -1,10 +1,13 @@
-# D-1-WW2-Zombie-Defense
-
 <p align="center">
   <img src=https://github.com/JeongminYoon/D-1-WW2-Zombie-Defense/assets/100955092/3ecd70d1-f941-432f-80c8-3e7d9faa3405>
 </p>
 
-### 1944년, 독일. 
+## 게임플레이 : https://jeongminyoon.github.io/D-1-WW2-Zombie-Defense/
+
+
+
+
+## 1944년, 독일.
 미군은 D-Day 상륙작전으로 독일 본토에 진공하였지만 독일은 이미 사악한 실험으로 인해
 좀비들에게 피로 물든 땅으로 변해버렸습니다. 언젠가 전쟁의 힘과 무력이 가득했던 이곳은 이제 죽음의 향연이 군림하고 있습니다. 이제는 당신의 생존 본능이 시험을 받는 순간입니다.
 
@@ -31,7 +34,7 @@
 ## 조작키 
 ### 이동 : WASD
 ### TAB : 시점 변경
-### 우클릭 : 조종 / 사격 / 배치 
+### 좌클릭 : 조종 / 사격 / 배치 
 
 
 ## 게임방식: 골드로 유닛을 배치하고 지휘캠프를 지켜라!
